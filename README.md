@@ -3,6 +3,9 @@ Apple Website Clone
 This project is a clone of the latest Apple website, created using HTML and CSS only. The purpose of this project is to practice front-end web development skills, including HTML and CSS layout, responsive design, and web accessibility.overall, this project demonstrates my proficiency in web development, particularly in the areas of layout design, responsive web design, and web accessibility.
 
 
+[Technologies Used : HTML , CSS , Javascript]
+
+
 
 ![Fig 1](https://github.com/SaravananK19/Apple-Website-Clone/assets/149501627/10b2ce03-36c3-4b21-a02f-ff11c665a82b)
 ![Fig 2](https://github.com/SaravananK19/Apple-Website-Clone/assets/149501627/5a561fde-470a-4f03-9c2d-abe6d44ab63a)
